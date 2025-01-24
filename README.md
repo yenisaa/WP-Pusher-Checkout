@@ -4,7 +4,7 @@
 This is a checkout page for WP Pusher. This project was assigned to me by **[altschool](altschoolafrica.com).**
 
 ## Screenshot
-!["Screenshot of the final project"](./asset/img/Screenshot.png)
+!["Screenshot of the final project"](asset\img\Screenshot.png)
 
 
 ## Contact
